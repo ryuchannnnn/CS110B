@@ -1,0 +1,7 @@
+﻿  Assignment 13 Graded Participation Q1.cpp
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1.cpp(21,32): error C2664: 'Rectangle::Rectangle(double,double,char *)': cannot convert argument 3 from 'const char [7]' to 'char *'
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1.cpp(21,23): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Rectangle.h(16,2): message : see declaration of 'Rectangle::Rectangle'
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1.cpp(22,33): error C2664: 'Rectangle::Rectangle(double,double,char *)': cannot convert argument 3 from 'const char [8]' to 'char *'
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1.cpp(22,23): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\User\source\repos\C++\Assignment 13 Graded Participation Q1\Assignment 13 Graded Participation Q1\Rectangle.h(16,2): message : see declaration of 'Rectangle::Rectangle'
