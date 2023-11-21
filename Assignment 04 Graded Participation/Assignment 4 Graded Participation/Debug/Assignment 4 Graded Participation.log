@@ -1,0 +1,3 @@
+﻿  Assignment 4 Graded Participation.cpp
+C:\Users\User\source\repos\Assignment 4 Graded Participation\Assignment 4 Graded Participation\Assignment 4 Graded Participation.cpp(25): error C4700: uninitialized local variable 'total' used
+C:\Users\User\source\repos\Assignment 4 Graded Participation\Assignment 4 Graded Participation\Assignment 4 Graded Participation.cpp(25): error C4700: uninitialized local variable 'burritoSold' used
