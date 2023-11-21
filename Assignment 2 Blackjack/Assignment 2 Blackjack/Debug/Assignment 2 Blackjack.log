@@ -1,0 +1,3 @@
+﻿  Assignment 2 Blackjack.cpp
+C:\Users\User\source\repos\Assignment 2 Blackjack\Assignment 2 Blackjack\Assignment 2 Blackjack.cpp(28,17): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment 2 Blackjack.vcxproj -> C:\Users\User\source\repos\Assignment 2 Blackjack\Debug\Assignment 2 Blackjack.exe
