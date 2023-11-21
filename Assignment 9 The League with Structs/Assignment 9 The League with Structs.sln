@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 9 The League with Structs", "Assignment 9 The League with Structs\Assignment 9 The League with Structs.vcxproj", "{17DA54BB-6913-4770-8C24-EA08E2577EE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Debug|x64.ActiveCfg = Debug|x64
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Debug|x64.Build.0 = Debug|x64
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Debug|x86.Build.0 = Debug|Win32
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Release|x64.ActiveCfg = Release|x64
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Release|x64.Build.0 = Release|x64
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Release|x86.ActiveCfg = Release|Win32
+		{17DA54BB-6913-4770-8C24-EA08E2577EE1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34AEF91A-67F6-4443-BF43-E45462AAB8A3}
+	EndGlobalSection
+EndGlobal
