@@ -1,0 +1,9 @@
+1. You need "this" in front of x and y because this points to the function calling it. In the gridwriter program, there are multiple classes that use Shape, and without this, the compiler will not know what shape to make. 
+
+2. This x and this y are in scope becuase Circle has inherited shape. 
+
+3. This is a pure virtual function,which means any class that gets inherited has to use the containsPoint function and the getArea function. 
+
+4. If you remove Shape(x,y) the complier knows that it is missing a base class, becuase circle is inherited off of shape. 
+
+5. An example of polymorphism is in the main function, where there are 3 circle objects being created, but also 1 rectangle object being created. 
