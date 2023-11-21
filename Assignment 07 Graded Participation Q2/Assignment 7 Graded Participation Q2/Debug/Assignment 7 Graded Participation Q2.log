@@ -1,0 +1,4 @@
+﻿  Assignment 7 Graded Participation Q2.cpp
+C:\Users\User\source\repos\C++\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2.cpp(24,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\C++\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2.cpp(31,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Assignment 7 Graded Participation Q2.vcxproj -> C:\Users\User\source\repos\C++\Assignment 7 Graded Participation Q2\Assignment 7 Graded Participation Q2\Debug\Assignment 7 Graded Participation Q2.exe
